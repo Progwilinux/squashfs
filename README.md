@@ -1,0 +1,2 @@
+# squashfs
+SquashFS for Progwilinux.
