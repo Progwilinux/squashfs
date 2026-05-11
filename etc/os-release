@@ -1,0 +1,6 @@
+NAME="Progwilinux"
+ID=progwilinux
+VERSION="26.5"
+PRETTY_NAME="Progwilinux 26.5"
+PROGWILINUX_CODE="hamster"
+HOME_URL="https://progwi0.github.io/progwilinux"
