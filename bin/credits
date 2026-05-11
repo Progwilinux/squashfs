@@ -1,0 +1,12 @@
+#!/bin/sh
+
+echo "Thanks to:"
+echo -e "\e[1;32mprogwi0\e[0m - Progwilinux creator."
+echo -e "\e[1;31mDexoron\e[0m - Some ideas."
+echo -e "\e[1;33maandrew-me\e[0m - tgpt creator."
+echo -e "\e[1;34mBruce Perens\e[0m - BusyBox creator."
+echo -e "\e[1;35mvaguinerg\e[0m - bufetch creator."
+echo -e "\e[1;36mmevdschee\e[0m - 2048.c creator."
+echo -e "\e[1;31mDamien P. George\e[0m - MicroPython creator."
+echo -e "\e[1;34mbellard\e[0m - QuickJS creator."
+echo -e "\e[1;32mwojciech-graj\e[0m - doom-ascii creator."
